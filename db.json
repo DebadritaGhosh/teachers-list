@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Debadrita Ghosh",
+      "username": "admin",
+      "email": "debadrita.ghosh2010@gmail.com",
+      "phone": "987654321",
+      "website": "www.debadritaghosh.co.in",
+      "id": 2
+    },
+    {
+      "name": "Debadrita Ghosh",
+      "username": "debadrita.ghosh2010@gmail.com",
+      "email": "debadrita.ghosh2010@gmail.com",
+      "phone": "123456789",
+      "website": "www.debadritaghosh.com",
+      "id": 1
+    },
+    {
+      "name": "ABC XYZ",
+      "username": "ABCXYZ",
+      "email": "abc@xyz.com",
+      "phone": "012345678",
+      "website": "www.abc.xyz",
+      "id": 3
+    }
+  ]
+}
